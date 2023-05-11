@@ -6,6 +6,9 @@ If you don't want to move to the .NET 5+ SDK, have a non-SDK-style .NET Framewor
 
 https://www.nuget.org/packages/Microsoft.CodeAnalysis.NetAnalyzers#readme-body-tab
 
+For older dotnet projects, we can consider using StyleCop
+https://github.com/StyleCop/StyleCop
+
 
 We can also consider using ReSharper from JetBrains to perform a deeper static code analysis and refactoring.
 ReSharper is a commercial tool.
