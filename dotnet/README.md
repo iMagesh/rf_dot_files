@@ -14,3 +14,5 @@ We can also consider using ReSharper from JetBrains to perform a deeper static c
 ReSharper is a commercial tool.
 
 https://www.jetbrains.com/resharper/
+
+These tools cover API development, mobile app developement and full stack apps.
