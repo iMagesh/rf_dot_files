@@ -14,6 +14,34 @@ npm install eslint-config-airbnb —-save-dev
 
 This will install airbnb style guide.
 
+### Eslint React Plugin
+
+```
+npm install eslint eslint-plugin-react --save-dev
+```
+
+### Eslint React with TypeScript
+
+We can refer to the instructions here
+https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba
+
+### Eslint React Native
+
+```
+npm install --save-dev eslint
+npm install --save-dev eslint-plugin-react
+npm install --save-dev eslint-plugin-react-native
+
+Add plugins section and specify ESLint-plugin-React (optional) and ESLint-plugin-react-native as a plugin.
+
+{
+  "plugins": [
+    "react",
+    "react-native"
+  ]
+}
+```
+
 ### Configuring Eslint
 
 We need to create a configuration file called eslintrc. This file can be in either json or yml format.
